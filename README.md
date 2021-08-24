@@ -1,4 +1,7 @@
-# restoo
-React Native  Micro Project 1
+#restoo
+React Native ~ Micro Project 1
 
+Resto App ~ shows restaurants, cafes, and bars in a given location.
+
+overview:
 ![result](https://raw.githubusercontent.com/varunveeraa/restoo/main/AppOverview.gif)
