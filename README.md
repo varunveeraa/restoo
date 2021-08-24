@@ -1,2 +1,2 @@
 # restoo
-React Native  ~Micro Project 1~
+React Native  Micro Project 1
