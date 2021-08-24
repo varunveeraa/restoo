@@ -1,5 +1,5 @@
-#restoo
-React Native ~ Micro Project 1
+## restoo
+### React Native ~ Micro Project 1
 
 Resto App ~ shows restaurants, cafes, and bars in a given location.
 
